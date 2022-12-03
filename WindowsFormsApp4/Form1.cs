@@ -174,7 +174,7 @@ namespace WindowsFormsApp4
 
         private void buttonV_Click(object sender, EventArgs e)
         {
-            textBox1.Text = ",";
+            textBox1.Text =  textBox1.Text+",";
         }
     }
     }
